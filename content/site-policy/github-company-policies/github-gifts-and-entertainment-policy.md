@@ -1,4 +1,4 @@
----
+oko---
 title: GitHub Gifts and Entertainment Policy
 redirect_from:
   - /articles/github-gifts-and-entertainment-policy
